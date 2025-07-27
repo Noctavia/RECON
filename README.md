@@ -51,8 +51,8 @@ Ce script Python automatise les phases de reconnaissance passive et active lors 
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/username/domain-reconnaissance.git
-cd domain-reconnaissance
+git clone https://github.com/Noctavia/RECON.git
+cd RECON
 ```
 
 ### 2. Installer les dépendances Python
